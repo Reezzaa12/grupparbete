@@ -1,6 +1,6 @@
-<Project Sdk="Microsoft.NET.Sdk">
+Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup><GenerateProgramFile>false</GenerateProgramFile>
+  <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
