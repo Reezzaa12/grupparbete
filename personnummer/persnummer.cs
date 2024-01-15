@@ -92,3 +92,4 @@ public static string GetGender(string personalNumber)
     }
 
 }
+
