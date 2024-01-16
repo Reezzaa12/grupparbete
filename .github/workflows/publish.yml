@@ -31,5 +31,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t rezkar/grupparbete:latest .
-          docker push rezkar/grupparbete:latest
+          docker build -t rezkar/grupparbete .
+          docker push rezkar/grupparbete
