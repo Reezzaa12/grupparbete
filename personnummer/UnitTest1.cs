@@ -32,7 +32,7 @@ public class UnitTest1
     public void GetGender_ReturnsMan_WhenGenderDigitIsOdd()
     {
         // given
-        string personalNumber = "950405-5483";
+        string personalNumber = "950405-5493";
 
         //when
         string result = Program.GetGender(personalNumber);
